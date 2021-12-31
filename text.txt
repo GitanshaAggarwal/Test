@@ -1,0 +1,2 @@
+this is text file.
+it contains some random things to practice the git functionalities.
